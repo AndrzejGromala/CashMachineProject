@@ -1,0 +1,57 @@
+c:\users\swdev06\documents\visual studio 2015\Projects\CashMachineProject\CashMachineProject\bin\Debug\CashMachineProject.exe.config
+c:\users\swdev06\documents\visual studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.csprojResolveAssemblyReference.cache
+c:\users\swdev06\documents\visual studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmLogin.resources
+c:\users\swdev06\documents\visual studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.Properties.Resources.resources
+c:\users\swdev06\documents\visual studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.csproj.GenerateResource.Cache
+c:\users\swdev06\documents\visual studio 2015\Projects\CashMachineProject\CashMachineProject\bin\Debug\CashMachineProject.exe
+c:\users\swdev06\documents\visual studio 2015\Projects\CashMachineProject\CashMachineProject\bin\Debug\CashMachineProject.pdb
+c:\users\swdev06\documents\visual studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.exe
+c:\users\swdev06\documents\visual studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.pdb
+c:\users\swdev06\documents\visual studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmMainMenu.resources
+c:\users\swdev06\documents\visual studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmBalanceEnquiry.resources
+c:\users\swdev06\documents\visual studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmWithdrowal.resources
+c:\users\swdev06\documents\visual studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmLodgement.resources
+c:\users\swdev06\documents\visual studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmChangePIN.resources
+C:\Users\Andrzej\Desktop\KursJava\C#\week4\CashMachineProject\CashMachineProject\bin\Debug\CashMachineProject.exe.config
+C:\Users\Andrzej\Desktop\KursJava\C#\week4\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.exe
+C:\Users\Andrzej\Desktop\KursJava\C#\week4\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.pdb
+C:\Users\Andrzej\Desktop\KursJava\C#\week4\CashMachineProject\CashMachineProject\bin\Debug\CashMachineProject.exe
+C:\Users\Andrzej\Desktop\KursJava\C#\week4\CashMachineProject\CashMachineProject\bin\Debug\CashMachineProject.pdb
+C:\Users\Andrzej\Desktop\KursJava\C#\week4\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\Desktop\KursJava\C#\week4\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmBalanceEnquiry.resources
+C:\Users\Andrzej\Desktop\KursJava\C#\week4\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmChangePIN.resources
+C:\Users\Andrzej\Desktop\KursJava\C#\week4\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmLodgement.resources
+C:\Users\Andrzej\Desktop\KursJava\C#\week4\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmLogin.resources
+C:\Users\Andrzej\Desktop\KursJava\C#\week4\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmMainMenu.resources
+C:\Users\Andrzej\Desktop\KursJava\C#\week4\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmWithdrowal.resources
+C:\Users\Andrzej\Desktop\KursJava\C#\week4\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.Properties.Resources.resources
+C:\Users\Andrzej\Desktop\KursJava\C#\week4\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.csproj.GenerateResource.Cache
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\CashMachineProject\CashMachineProject\bin\Debug\CashMachineProject.exe.config
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.exe
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\CashMachineProject\CashMachineProject\bin\Debug\CashMachineProject.exe
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\CashMachineProject\CashMachineProject\bin\Debug\CashMachineProject.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmBalanceEnquiry.resources
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmChangePIN.resources
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmLodgement.resources
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmLogin.resources
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmMainMenu.resources
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmWithdrowal.resources
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.Properties.Resources.resources
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.csproj.GenerateResource.Cache
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\CashMachineProjectC#\CashMachineProject\CashMachineProject\bin\Debug\CashMachineProject.exe.config
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\CashMachineProjectC#\CashMachineProject\CashMachineProject\bin\Debug\CashMachineProject.exe
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\CashMachineProjectC#\CashMachineProject\CashMachineProject\bin\Debug\CashMachineProject.pdb
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\CashMachineProjectC#\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.csprojAssemblyReference.cache
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\CashMachineProjectC#\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmBalanceEnquiry.resources
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\CashMachineProjectC#\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmChangePIN.resources
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\CashMachineProjectC#\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmLodgement.resources
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\CashMachineProjectC#\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmLogin.resources
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\CashMachineProjectC#\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmMainMenu.resources
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\CashMachineProjectC#\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.FormsPresentation.frmWithdrowal.resources
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\CashMachineProjectC#\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.Properties.Resources.resources
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\CashMachineProjectC#\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.csproj.GenerateResource.cache
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\CashMachineProjectC#\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\CashMachineProjectC#\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.exe
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\CashMachineProjectC#\CashMachineProject\CashMachineProject\obj\Debug\CashMachineProject.pdb
